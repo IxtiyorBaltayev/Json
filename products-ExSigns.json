@@ -2,12 +2,40 @@
 	{
 		"id": 1,
 		"name": "Car Magnets",
-		"img": "https://cms.cloudinary.vpsvc.com/images/c_scale,dpr_auto,f_auto,fl_progressive,w_600/legacy_dam/en-us/S001563567/MXP15681-catzone-producttile-RCBC-001?cb=b5607077a81046e7fa14e355d9a903da7cd6d3db"
+		"img": "https://cms.cloudinary.vpsvc.com/images/c_scale,dpr_auto,f_auto,fl_progressive,w_600/legacy_dam/en-us/S001563567/MXP15681-catzone-producttile-RCBC-001?cb=b5607077a81046e7fa14e355d9a903da7cd6d3db",
+		"sizeOptions": [
+			{ "value": "8.7 x 11.5", "label": "8.7 x 11.5" },
+			{ "value": "10 x 20", "label": "10 x 20" },
+			{ "value": "11.5 x 17.6", "label": "11.5 x 17.6" },
+			{ "value": "12 x 24", "label": "12 x 24" },
+			{ "value": "18 x 24", "label": "18 x 24" }
+		],
+		"priceOptions": [
+			{ "value": "$10", "label": "$10" },
+			{ "value": "$20", "label": "$20" },
+			{ "value": "$30", "label": "$30" },
+			{ "value": "$40", "label": "$40" },
+			{ "value": "$50", "label": "$50" }
+		]
 	},
 	{
 		"id": 2,
 		"name": "Car Windows Decals",
-		"img": "https://cms.cloudinary.vpsvc.com/images/c_scale,dpr_auto,f_auto,fl_progressive,w_600/legacy_dam/en-us/S001564284/MXP15681-catzone-producttile-rolllabels-NA-001?cb=e783a0c29813fafb84dd30c6984f7ec76af66f1b"
+		"img": "https://cms.cloudinary.vpsvc.com/images/c_scale,dpr_auto,f_auto,fl_progressive,w_600/legacy_dam/en-us/S001564284/MXP15681-catzone-producttile-rolllabels-NA-001?cb=e783a0c29813fafb84dd30c6984f7ec76af66f1b",
+		"sizeOptions": [
+			{ "value": "6.7 x 11.5", "label": "8.7 x 11.5" },
+			{ "value": "15 x 20", "label": "10 x 20" },
+			{ "value": "11.8 x 7.6", "label": "11.5 x 17.6" },
+			{ "value": "12 x 4", "label": "12 x 24" },
+			{ "value": "18 x 4", "label": "18 x 24" }
+		],
+		"priceOptions": [
+			{ "value": "$10", "label": "$10" },
+			{ "value": "$50", "label": "$50" },
+			{ "value": "$70", "label": "$70" },
+			{ "value": "$40", "label": "$40" },
+			{ "value": "$60", "label": "$60" }
+		]
 	},
 	{
 		"id": 3,
