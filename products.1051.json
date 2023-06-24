@@ -1,0 +1,50 @@
+{
+  "id" : 1051,
+  "name" : "Outdoor Signs",
+  "description" : "Get more mileage out of your marketing with custom car magnets.\n5 size options\nPVC-free plastic material\nDurable hold\n0.85 mm thick with rounded corners\nVivid, fade-resistant printing\nFor metal surfaces & mild weather only\nGet noticed\nOutfit your vehicles with personalized car magnets for quick and effective on-the-go marketing. Durable and weather-resistant, our magnetic car signs can get your business name and logo noticed by pedestrians and other drivers – and can help you make a strong first impression.\n\nEasy installation\nOur PVC-free vehicle magnets are easy to add or remove, and they’re a great option if you want to create a consistent, branded look across multiple trucks, cars or vans. Note: Follow the care and usage tips in the FAQ section to avoid damaging your vehicle.\n\nIntuitive design process\nReady to start? First, choose from one of 5 car magnet sizes. Then explore our gallery of fully customizable design templates with industry-specific options. (Or, if you have a design ready to go, use our design upload option.) Once you’ve found a favourite design, make it yours by adding your custom details and choosing the options that work best for you. We’ll use fade-resistant UV ink printing to add your design to the matte surface of your magnetic car sign – and the finished product will be ready to stand out wherever the road takes you.\n\nNeed more than 40? Click here to submit a request.",
+  "categoryName" : "Car Signs",
+  "variants" : [ {
+    "id" : 1402,
+    "optionValue1Id" : 1351,
+    "optionValue2Id" : 1357,
+    "optionValue3Id" : null,
+    "price" : 12.00,
+    "image" : "https://cms.cloudinary.vpsvc.com/images/c_scale,dpr_auto,f_auto,fl_progressive,w_600/legacy_dam/en-us/S001564284/MXP15681-catzone-producttile-rolllabels-NA-001?cb=e783a0c29813fafb84dd30c6984f7ec76af66f1b"
+  }, {
+    "id" : 1401,
+    "optionValue1Id" : 1351,
+    "optionValue2Id" : 1356,
+    "optionValue3Id" : null,
+    "price" : 1000.00,
+    "image" : "https://cms.cloudinary.vpsvc.com/images/c_scale,dpr_auto,f_auto,fl_progressive,w_600/legacy_dam/en-us/S001563567/MXP15681-catzone-producttile-RCBC-001?cb=b5607077a81046e7fa14e355d9a903da7cd6d3db"
+  } ],
+  "options" : [ {
+    "name" : "Quantity",
+    "values" : [ {
+      "id" : 1356,
+      "name" : "1($62 / unit)"
+    }, {
+      "id" : 1357,
+      "name" : "2($53 / unit)"
+    } ]
+  }, {
+    "name" : "Size",
+    "values" : [ {
+      "id" : 1351,
+      "name" : "8.7\" x 11.5\""
+    }, {
+      "id" : 1352,
+      "name" : "10\" x 20\""
+    }, {
+      "id" : 1353,
+      "name" : "11.5\" x 17.6\""
+    }, {
+      "id" : 1354,
+      "name" : "12\" x 24\""
+    }, {
+      "id" : 1355,
+      "name" : "18\" x 24\""
+    } ]
+  } ],
+  "images" : [ "https://cms.cloudinary.vpsvc.com/images/c_scale,dpr_auto,f_auto,fl_progressive,w_600/legacy_dam/en-us/S001563567/MXP15681-catzone-producttile-RCBC-001?cb=b5607077a81046e7fa14e355d9a903da7cd6d3db" ]
+}
